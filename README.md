@@ -6,3 +6,25 @@ We are not fussy DU Boot Camp repository
 22:43 4/12/2021 Experimenting with brach commits and conflicts. SBC
 
 16:40 4/13/2021 Uploaded starter notebook and csv file
+
+Team: We are not fussy
+Sami Coalson
+Melissa Schafer
+Ce’Aren Robinson
+Leah Dillard
+Beth Gietl
+
+Project: The Real Coin Toss of the NFL
+
+April 2021
+
+Overview
+Even though the game is dynamic, sports has a long history of calculated decisions determined by data and we are here to weave that story together. Major corporate and industry stakeholders rely on this data to make crucial and fiscal decisions, some in which make or break careers. Which overall components are the most highly correlated to make the best NFL franchises? Is there a relation between team salaries and their corresponding championship reign/s? Does a draft pick order have a relation to career longevity and success? There is over a century of NFL data to answer these questions and predict overall success.  
+Project Scope
+We will primarily be exporting data from Pro Football Reference, a website dedicated to current and historical football stats. We will import the data into Jupyter Notebook and use Python, Pandas, and Matplotlib to: 
+create, combine and clean dataframes 
+run subsets and correlations
+create visualizations, tables and other useful outputs
+
+Deliverables
+More to come once we look over the data!
