@@ -1,4 +1,4 @@
-﻿Index,Year,Winner,Winning Score,Losing Score,Score Differential,Overtime,Field Goal or Less,Super Bowl Appearances,Division,Game Rank
+﻿sequence,Year,Winner,Winning Score,Losing Score,Score Differential,Overtime,Field Goal or Less,Super Bowl Appearances,Division,Game Rank
 0,1970–71,Baltimore Colts,17,0,17,0,FALSE,2,AFC,playoff
 1,1970–71,Oakland Raiders,21,14,7,0,FALSE,5,AFC,playoff
 2,1971–72,Miami Dolphins,27,24,3,2,TRUE,5,AFC,playoff
