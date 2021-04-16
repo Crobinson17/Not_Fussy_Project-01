@@ -7,6 +7,9 @@ We are not fussy DU Boot Camp repository
 
 16:40 4/13/2021 Uploaded starter notebook and csv file
 
+02:55 4/16/2021 Pushed data files. 1 PDF with serial killer statistics. I doc file example of a possible data source if we are going to manually create a csv.
+      Earlier today I applied for student access to the Radford/FGCU Serial Killer Research database, waiting to hear back.
+      
 Team: We are not fussy
 Sami Coalson
 Melissa Schafer
