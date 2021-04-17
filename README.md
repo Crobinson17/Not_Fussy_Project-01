@@ -19,13 +19,6 @@ Ce’Aren Robinson
 Leah Dillard
 Beth Gietl
 
-Team: We are not fussy
-Sami Coalson
-Melissa Schafer
-Ce’Aren Robinson
-Leah Dillard
-Beth Gietl
-
 Project: Evil Among Us: Statistical Profiling of Serial Killers
 
 April 2021
