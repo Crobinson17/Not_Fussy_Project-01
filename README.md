@@ -17,17 +17,28 @@ Ce’Aren Robinson
 Leah Dillard
 Beth Gietl
 
-Project: The Real Coin Toss of the NFL
+Team: We are not fussy
+Sami Coalson
+Melissa Schafer
+Ce’Aren Robinson
+Leah Dillard
+Beth Gietl
+
+Project: Evil Among Us: Statistical Profiling of Serial Killers
 
 April 2021
 
 Overview
-Even though the game is dynamic, sports has a long history of calculated decisions determined by data and we are here to weave that story together. Major corporate and industry stakeholders rely on this data to make crucial and fiscal decisions, some in which make or break careers. Which overall components are the most highly correlated to make the best NFL franchises? Is there a relation between team salaries and their corresponding championship reign/s? Does a draft pick order have a relation to career longevity and success? There is over a century of NFL data to answer these questions and predict overall success.  
+
+Even though the genre is macabre, murder has plagued human kind for centuries. It has a long history of scaring the masses because serial killers are vague and exist within societies’ underbelly. “How does one become a serial killer or victim?” We are here to weave that story together by using the data of numerous serial killer’s age, gender, location, IQ, killing preferences and economic statuses. “Will I be targeted or the ones I love?” Our group will also explore that with the data on the month, motives, generations, state, and gender that the killer is most likely to do these horrible deeds. There is over a century of serial killer data to answer these questions, we are here to predict the overall victims success and killers downfall!   
+
 Project Scope
-We will primarily be exporting data from Pro Football Reference, a website dedicated to current and historical football stats. We will import the data into Jupyter Notebook and use Python, Pandas, and Matplotlib to: 
+
+We will primarily be exporting data from Ratsford University, a website dedicated to current and historical serial killer stats, and several other resources. We will import the data into Jupyter Notebook and use Python, Pandas, and Matplotlib to: 
 create, combine and clean dataframes 
 run subsets and correlations
 create visualizations, tables and other useful outputs
 
 Deliverables
+
 More to come once we look over the data!
